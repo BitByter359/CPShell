@@ -14,3 +14,9 @@ Excuse me for my messy code in some places.
 
 # DEVELOPERS
 Disasterocks - Coder.  Watrmeln - Ideas, ASCII Logo, modifications.
+
+# INSTALL INSTRUCTIONS
+Once extracted, run Install.bat as an administrator!
+I am not responsible for any damage caused to your computer,
+you are to use this at your own risk. We are still in
+beta v1.0 (Build 19) so don't expect much!
