@@ -1,0 +1,36 @@
+Note: We mean no harm to your pc other than to provide a viable shell choice alternative. If your AV program blocks CPshell
+It's a false positive.
+
+POST-INSTALL INSTRUCTIONS:
+
+	For Windows 8, 8.1, 10, 11:
+ 			1. In the Start or search menu, look for "Edit environment variables for your account"
+ 			2. Click "New" and set the Variable name to "Path" OR
+			if PATH is already there, click edit and add it to another section and press OK
+ 			3. Set or add the Variable Value to C:\CPShellFiles
+	 		4. Click OK, and click OK again.
+ 			5. Log off or restart and there you go!
+
+	For Windows Vista/7:
+			1. Go to the Start Menu, look for "Computer," right click, and open properties.
+			2. Click "System Advanced Settings."
+			3. Click the Environment Variables button
+			4. Click "New" and set the Variable name to "Path"
+			5. Set the Variable Value to C:\CPShellFiles
+			6. Press OK and restart (or logoff!)
+
+	For Windows XP:
+			This procedure is a bit different due to the startup path being different!
+			1. In the installer folder, go into "CPShellFiles" and copy "CPShell.bat" to
+			"C:\Documents and Settings\Administrator\Start Menu\Programs\Startup\"
+			2. Right click "My Computer" in the start menu and open properties.
+			3. Go to the "Advanced" tab and click "Environment Variables."
+			4. Click "New" and set the Variable name to "Path"
+			5. Set the Variable Value to C:\CPShellFiles
+			4. Click OK, and OK again.
+			5. Log off or restart!
+
+Unfortunately, CPShell does not support anything older than Windows 2000, due to it not supporting some features and 
+commands. While you can install it as your primary shell and launch it, it simply does not support use of "systeminfo" and "whoami"
+commands, and some others as well.
+-Melnheads
