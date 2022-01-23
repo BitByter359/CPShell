@@ -3,7 +3,9 @@ CPShell is a Command Prompt Shell for Microsoft Windows XP and above. You deserv
 
 # NOTES
 If you are trying to install this on a version of windows earlier than XP, don't.
-We only support Windows XP and above, because 2000 and below don't support certain features.
+We only support Windows XP and above.
+(P.S, Windows 2000 Kinda works, but it won't kill explorer.exe, therefore making it
+rendered useless.)
 
 If the explorer shows on logon, check that CPShell copied to the startup folder!
 If not, copy it yourself (from CPShellFiles in this folder, copy CPShell.bat to the startup folder.)
