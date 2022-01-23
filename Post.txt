@@ -19,7 +19,7 @@ POST-INSTALL INSTRUCTIONS:
 			5. Set the Variable Value to C:\CPShellFiles
 			6. Press OK and restart (or logoff!)
 
-	For Windows XP:
+	For Windows XP and 2000:
 			This procedure is a bit different due to the startup path being different!
 			1. In the installer folder, go into "CPShellFiles" and copy "CPShell.bat" to
 			"C:\Documents and Settings\Administrator\Start Menu\Programs\Startup\"
@@ -30,7 +30,6 @@ POST-INSTALL INSTRUCTIONS:
 			4. Click OK, and OK again.
 			5. Log off or restart!
 
-Unfortunately, CPShell does not support anything older than Windows 2000, due to it not supporting some features and 
-commands. While you can install it as your primary shell and launch it, it simply does not support use of "systeminfo" and "whoami"
-commands, and some others as well.
+NOTE: Windows 2000 does not fully work correctly due to certain issues with killing explorer, so really, just
+install this on XP.
 -Melnheads
