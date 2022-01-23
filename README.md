@@ -13,5 +13,4 @@ Explorer will show for a short period of time on logon depending on your compute
 Excuse me for my messy code in some places.
 
 # DEVELOPERS
-Disasterocks - Main Code 
-Watrmeln - Ideas and ASCII Logo 
+Disasterocks - Coder.  Watrmeln - Ideas, ASCII Logo, modifications.
