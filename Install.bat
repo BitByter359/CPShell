@@ -29,7 +29,7 @@ if '%errorlevel%' NEQ '0' (
 cls
 
 echo ##############################
-echo #CPshell Installler
+echo #CPshell v1.2 Installler
 echo #Made by disasterocks and watrmeln
 echo ##############################
 echo Press 1 to Install CPshell
