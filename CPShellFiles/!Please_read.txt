@@ -1,0 +1,10 @@
+# NOTE!
+Deleting these files will NOT delete CPShell. It will just render these commands unusable.
+
+To properly uninstall CPShell, run the installer and select Option 2 (Uninstall) and confirm.
+CPShell will then be uninstalled from your system, you can also manually remove it by moving it from your
+Startup folder and environment tables.
+
+# ADDING CUSTOM COMMANDS
+Make a .bat file in the application of your choice (VS Code, Notepad, ect.) and make a .bat file.
+with your code, then save it to C:\CPShellFiles\{your file}.bat
