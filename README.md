@@ -21,7 +21,15 @@ Disasterocks - Coder.  Watrmeln - Ideas, ASCII Logo, modifications.
 Once extracted, run Install.bat as an administrator!
 I am not responsible for any damage caused to your computer,
 you are to use this at your own risk. We are still in
-beta v1.0 (Build 19) so don't expect much!
+beta v1.2 (Build 21) so don't expect much!
+
+# WARNINGS
+USE THIS PROGRAM AT YOR OWN RISK! Any damage caused to your
+computer (which is unlikely) is not at our fault, and
+remember that YOU are the one who decided to install CPShell.
+
+Thank you!
+-The Melnheads
 
 # CREDITS
 Site created by Watrmeln, additional info added by Disasterocks.
