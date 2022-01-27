@@ -26,7 +26,7 @@ beta v1.2 (Build 21) so don't expect much!
 # WARNINGS
 USE THIS PROGRAM AT YOR OWN RISK! Any damage caused to your
 computer (which is unlikely) is not at our fault, and
-remember that YOU are the one who decided to install CPShell.
+remember that YOU are the one who decided to install CPShell. (sorry tho)
 
 Thank you!
 -The Melnheads
