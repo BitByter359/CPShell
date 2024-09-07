@@ -1,3 +1,6 @@
+# NOTICE
+This project has not been worked on since ~April 2022. Both me and Watrmeln made this as a fun little project when we were younger, and a lot of this project may be buggy and behave in ways that it shouldn't. Please consider using something else <3 -BitByter
+
 # CPShell
 CPShell is a Command Prompt Shell for Microsoft Windows XP and above. You deserve choice!
 
